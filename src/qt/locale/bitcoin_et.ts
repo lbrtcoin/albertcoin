@@ -362,12 +362,12 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Loo maksepäring (genereerib QR koodid ja litecoini: URId)</translation>
+        <source>Request payments (generates QR codes and albertcoin: URIs)</source>
+        <translation>Loo maksepäring (genereerib QR koodid ja albertcoini: URId)</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Ava litecoini: URI või maksepäring</translation>
+        <source>Open a albertcoin: URI or payment request</source>
+        <translation>Ava albertcoini: URI või maksepäring</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
