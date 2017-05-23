@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t wallet .
+docker build --rm -t wallet .
