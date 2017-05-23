@@ -13,4 +13,5 @@ RUN ./configure
 RUN make
 RUN mkdir /root/albertcoin/data
 EXPOSE 9332
+EXPOSE 9333
 CMD ["/root/albertcoin/src/albertcoind", "-conf=/root/albertcoin/conf/albertcoin.conf", "-datadir=/root/albertcoin/data"]
